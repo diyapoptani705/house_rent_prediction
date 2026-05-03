@@ -1,13 +1,13 @@
-# 🏠 House Rent Prediction
+#  House Rent Prediction
 
-## 📌 Project Overview
+##  Project Overview
 House Rent Prediction is a machine learning project that estimates rental prices of houses based on features such as location, size, furnishing status, and tenant preferences.
 
 The project builds and compares multiple regression models to determine the most accurate approach for predicting rent, making the process more data-driven, transparent, and reliable for both landlords and tenants.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 The dataset is loaded from:
 data/House_Rent_Dataset.csv
 
@@ -53,7 +53,7 @@ The dataset was explored using:
 
 ---
 
-## 🤖 Machine Learning Models Used
+##  Machine Learning Models Used
 - Linear Regression
 - Support Vector Regressor (SVR - Linear Kernel)
 - Decision Tree Regressor
@@ -61,7 +61,7 @@ The dataset was explored using:
 
 ---
 
-## 📈 Model Evaluation Results
+##  Model Evaluation Results
 
 |         Model            | R² Score |    MSE      |    MAE   |
 |--------------------------|--------|---------------|----------|
@@ -72,15 +72,15 @@ The dataset was explored using:
 
 ---
 
-## 🏆 Best Model
+##  Best Model
 The **Random Forest Regressor** performed the best with:
 - Highest R² Score: **0.7191**
 - Lowest error values (MSE & MAE)
 
 ---
 
-## 🧰 Tech Stack
-- Python 🐍
+##  Tech Stack
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
@@ -89,7 +89,7 @@ The **Random Forest Regressor** performed the best with:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install Dependencies
 ```bash
